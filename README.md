@@ -1,3 +1,9 @@
+#FormNgin
+
+## What is FormNgin?
+
+FormNgin is a React-based general-purpose form input tool: layout, dynamic calculations, local storage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
